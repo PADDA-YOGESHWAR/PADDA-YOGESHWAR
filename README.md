@@ -15,11 +15,6 @@ Passionate about exploring new technologies, thrive in dynamic environments and 
 - [Inventory Management System](https://github.com/PADDA-YOGESHWAR/InventoryManagmentSystem) - Created Using ASP .NET core and Angular to manage the stocks in the inventory systems with mobiles.
 - [Community Communication Management System](https://github.com/PADDA-YOGESHWAR/Capstone) - Developed a communication management system for community manage all the events, complaints, meetings updates
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PADDA-YOGESHWAR&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PADDA-YOGESHWAR&theme=dark" alt="GitHub Streak" />
-</p>
 
 🤝 **Connect With Me**
 - [GitHub](https://github.com/PADDA-YOGESHWAR)
